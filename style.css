@@ -1,11 +1,6 @@
 .gradient-background {
   background: #5ed1ff;
-  background: linear-gradient(
-    90deg,
-    rgba(94, 209, 255, 1) 0%,
-    rgba(128, 206, 255, 1) 50%,
-    rgba(2, 115, 245, 1) 100%
-  );
+  background: linear-gradient(90deg, rgba(94, 209, 255, 1) 0%, rgba(128, 238, 255, 1) 50%, rgba(94, 209, 255, 1) 100%);
 }
 
 .explanation {
