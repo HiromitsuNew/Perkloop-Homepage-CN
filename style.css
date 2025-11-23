@@ -1,0 +1,21 @@
+.gradient-background {
+  background: #5ed1ff;
+  background: linear-gradient(
+    90deg,
+    rgba(94, 209, 255, 1) 0%,
+    rgba(128, 206, 255, 1) 50%,
+    rgba(2, 115, 245, 1) 100%
+  );
+}
+
+.explanation {
+  height: 100vh;
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: 2fr 2fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.activate {
+  <a href="https://perkloop.lovable.app/dashboard">
+}
